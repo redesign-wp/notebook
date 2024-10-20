@@ -1,2 +1,4 @@
-# notebook
-Notebook is a fresh, simple, responsive theme.
+# NOTEBOOK [WP THEME] (EN)
+
+---
+
